@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "description": "## Requirements",
+  "main": "hello/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node hello/index.js"
+  },
+  "author": "JUMO",
+  "devDependencies": {
+    "mocha": "^9.1.4"
+  }
+}
