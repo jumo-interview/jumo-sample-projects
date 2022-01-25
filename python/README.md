@@ -9,7 +9,7 @@ Start by either _cloning_ or _downloading_ this repository to your computer
 via the links on the right
 (creating a fork of the repository is not necessary).
 
-For this interview, you will need to have Python 3.5 or later installed. See the [RealPython installation guide] if you haven't installed it yet.
+For this interview, you will need to have Python 3.5 or later installed. Python 3.10 and later versions are not supported. See the [RealPython installation guide] if you haven't installed it yet.
 
 We'll start by creating a [virtual environment] with [venv], and install some requirements that might be useful.
 
